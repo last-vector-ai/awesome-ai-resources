@@ -72,6 +72,7 @@ _A list of AI resources curated by Last Vector AI_
 | [Replit Agent](https://replit.com/) | Chat to code and deploy flask apps | 🆓💲 |
 | [v0](https://v0.dev/) | Chat to code react components with tailwindcss and shadcn | 🆓💲 |
 | [Cline](https://github.com/cline/cline) | VSCode extension for AI code editing | 🆓👨‍💻 |
+| [Cody](https://sourcegraph.com/cody) | VSCode based AI coding assistant | 🆓💲 |
 
 ## Speech Recognition & Synthesis
 
