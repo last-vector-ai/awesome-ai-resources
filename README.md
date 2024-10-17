@@ -22,6 +22,7 @@ _A list of AI resources curated by Last Vector AI_
 -  🆓 - Can be used for free
 -  🔐 - Requires authentication
 -  💲 - Has paid plans
+-  👨‍💻 - Open source
 
 ---
 
@@ -33,6 +34,10 @@ _A list of AI resources curated by Last Vector AI_
 ## Coding Assistants
 
 -  [Cursor](https://www.cursor.com/) - AI powered code editor 🆓💲
+-  [Cline](https://github.com/cline/cline) - VSCode extension for AI code editing 🆓👨‍💻
+-  [Bolt.new](https://bolt.new/) - Chat to code and deploy apps 🆓💲
+-  [Replit Agent](https://replit.com/) - Chat to code and deploy flask apps 🆓💲
+-  [v0](https://v0.dev/) - Chat to code react components with tailwindcss and shadcn 🆓💲
 
 ## Speech Recognition & Synthesis
 
@@ -40,6 +45,8 @@ _A list of AI resources curated by Last Vector AI_
 -  [Suno](https://suno.com/) - Text to song AI generator 🆓
 
 ## Prompt Engineering
+
+- [Anthropic Workbench](https://console.anthropic.com/) - Playground for prompts 🔐💲
 
 ## Other Lists
 
