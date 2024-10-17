@@ -1,48 +1,53 @@
-
 <div align="center">
 
 # Awesome AI Resources
 
-_A list of AI resources curated by Last Vector AI_ <br>
+_A list of AI resources curated by Last Vector AI_
 
 ![Message](https://img.shields.io/badge/I%20%E2%9D%A4%20-OpenSource-%23ff0055) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
- ![Awesome-Repos](https://img.shields.io/badge/Awesome--repos-%23ff0055)
+![Awesome-Repos](https://img.shields.io/badge/Awesome--repos-%23ff0055)
 
 </div>
 
 ## Contents
 
-- [Image Generation](#image-generation)<br>
-- [Coding Assistants](#coding-assistants)
-- [Other Lists](#other-lists)
+-  [Image & Video Generation](#image--video-generation)
+-  [Coding Assistants](#coding-assistants)
+-  [Speech Recognition & Synthesis](#speech-recognition--synthesis)
+-  [Prompt Engineering](#prompt-engineering)
+-  [Other Lists](#other-lists)
 
 ## Key
-- 🆓 - Can be used for free
-- 🔐 - Requires authentication
-- 💲 - Has paid plans
+
+-  🆓 - Can be used for free
+-  🔐 - Requires authentication
+-  💲 - Has paid plans
+
 ---
 
 ## Image & Video Generation
-- [Luma Labs Dream Machine](https://lumalabs.ai/dream-machine) - Generates videos from text and images
 
-
+-  [Luma Labs Dream Machine](https://lumalabs.ai/dream-machine) - Generates videos from text and images 🆓💲
+-  [Kling AI](https://klingai.com) - Easy image and video generator 🆓💲
 
 ## Coding Assistants
-- [Cursor](https://www.cursor.com/) - AI powered code editor 🆓💲
 
+-  [Cursor](https://www.cursor.com/) - AI powered code editor 🆓💲
 
 ## Speech Recognition & Synthesis
-- [Eleven Labs](https://elevenlabs.io/) - Text to speech AI voice generator 🆓💲
 
+-  [Eleven Labs](https://elevenlabs.io/) - Text to speech AI voice generator 🆓💲
+-  [Suno](https://suno.com/) - Text to song AI generator 🆓
 
-
+## Prompt Engineering
 
 ## Other Lists
 
 Links to other lists with useful AI tools & resources
 
-- https://github.com/eudk/awesome-ai-tools
-- https://github.com/mahseema/awesome-ai-tools
+-  https://github.com/eudk/awesome-ai-tools
+-  https://github.com/mahseema/awesome-ai-tools
+- https://cursor.directory/
 
 ---
 
