@@ -30,6 +30,8 @@ _A list of AI resources curated by Last Vector AI_
 
 -  [Luma Labs Dream Machine](https://lumalabs.ai/dream-machine) - Generates videos from text and images 🆓💲
 -  [Kling AI](https://klingai.com) - Easy image and video generator 🆓💲
+-  [Invoke AI](https://www.invoke.com) - Easy image generator (almost any model support) 💲(free trial available)
+-  [ArtBot](https://tinybots.net/artbot) - Image generator powered by community 🆓 (AI Horde community)
 
 ## Coding Assistants
 
@@ -38,6 +40,7 @@ _A list of AI resources curated by Last Vector AI_
 -  [Bolt.new](https://bolt.new/) - Chat to code and deploy apps 🆓💲
 -  [Replit Agent](https://replit.com/) - Chat to code and deploy flask apps 🆓💲
 -  [v0](https://v0.dev/) - Chat to code react components with tailwindcss and shadcn 🆓💲
+
 
 ## Speech Recognition & Synthesis
 
