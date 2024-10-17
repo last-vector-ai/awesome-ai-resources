@@ -29,10 +29,13 @@ _A list of AI resources curated by Last Vector AI_
 
 -  [Luma Labs Dream Machine](https://lumalabs.ai/dream-machine) - Generates videos from text and images 🆓💲
 -  [Kling AI](https://klingai.com) - Easy image and video generator 🆓💲
+-  [Invoke AI](https://www.invoke.com) - Easy image generator (almost any model support) 💲(free trial available)
+-  [ArtBot](https://tinybots.net/artbot) - Image generator powered by community 🆓 (AI Horde community)
 
 ## Coding Assistants
 
 -  [Cursor](https://www.cursor.com/) - AI powered code editor 🆓💲
+-  [Cline](https://github.com/cline/cline) - Open source Cursor alternative 🆓(💲 for underlying models via API)
 
 ## Speech Recognition & Synthesis
 
