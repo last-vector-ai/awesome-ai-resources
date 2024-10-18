@@ -30,12 +30,27 @@ _A list of AI resources curated by Last Vector AI_
 
 ## Model Selection
 
+## Model Selection
+
 | Model | Modality | Open Source? | Best for... | Best Provider |
 |-------|----------|--------------|-------------|---------------|
+| BioBERT | Text | Yes 🔓 | Biomedical text mining | Google |
+| Claude 3 Haiku | Multimodal | No | Quick responses, live interactions | Anthropic |
+| Claude 3 Opus | Multimodal | No | Complex tasks, research, and automation | Anthropic |
 | Claude 3.5 Sonnet | Text | No | Coding and general chat | Anthropic/Cursor |
-| Llama 3.2 405b | Text | Yes 🔓 | Open source powerful model | Groq |
-| Llama 3.2 70b | Text | Yes 🔓 | Open source balanced model | Groq |
+| DALL-E 2 | Image | No | Text-to-image generation | OpenAI |
+| EG3D | Image | No | Generating high-quality 3D geometry | NVIDIA |
+| GPT-3 | Text | No | General-purpose language tasks | OpenAI |
+| GPT-3.5 | Text | No | Conversational AI and content generation | OpenAI |
+| GPT-4 | Multimodal | No | Advanced multimodal tasks (text & image) | OpenAI |
+| GPT-55X | Text | No | Enhanced language understanding | Amazon |
 | Llama 3.2 8b | Text | Yes 🔓 | Open source fast model | Groq |
+| Llama 3.2 70b | Text | Yes 🔓 | Open source balanced model | Groq |
+| Llama 3.2 405b | Text | Yes 🔓 | Open source powerful model | Groq |
+| Megatron 530B | Text | No | High-quality text generation | NVIDIA |
+| Mistral 7B | Text | Yes 🔓 | Versatile tasks with low compute cost | Mistral |
+| Segment Anything Model (SAM) | Image | No | Object segmentation in images | Meta AI |
+| YOLOv8 | Image | Yes 🔓 | Real-time object detection | Various providers |
 
 ## Image Generation
 
@@ -99,7 +114,7 @@ Links to other lists with useful AI tools & resources:
 - https://github.com/eudk/awesome-ai-tools
 - https://github.com/mahseema/awesome-ai-tools
 - https://cursor.directory/
-
+- https://dev.to/sbalasa/list-of-ai-models-17on 
 ---
 
 Found this helpful? Consider sharing it with others!
