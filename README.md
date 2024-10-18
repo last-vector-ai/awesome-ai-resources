@@ -46,8 +46,8 @@ _A list of AI resources curated by Last Vector AI_
 | [Stable Diffusion](https://stability.ai/stable-diffusion) | Open-source text-to-image model | 🔓🆓 |
 | [Canva Text to Image](https://www.canva.com/your-apps/text-to-image) | AI image generation integrated into Canva | 🆓💲 |
 | [KLING AI](https://klingai.com/text-to-image/new) | AI image generation text-to-Image | 🆓💲🔐 |
-| [Venice AI](https://venice.ai/) | Text-to-Image AI image generation. You can sign in with Crypto wallets | 🆓💲🔐 |
-| [Invoke AI](https://www.invoke.com) | Easy image generator (almost any model support) | 💲 (free trial available) |
+| [Venice AI](https://venice.ai/) | text-to-Image AI image generation. You can sign in with Crypto wallets | 🆓💲🔐 |
+| [Invoke AI](https://www.invoke.com) | Easy image generator (almost any model support) | 🆓💲 |
 | [ArtBot](https://tinybots.net/artbot) | Image generator powered by community (AI Horde community) | 🆓 |
 
 ## Video Generation
@@ -59,7 +59,6 @@ _A list of AI resources curated by Last Vector AI_
 | [Synthesia](https://www.synthesia.io/) | AI video generation platform | 💲 |
 | [D-ID](https://www.d-id.com/) | AI-powered video creation with digital avatars | 🆓💲 |
 | [KLING AI](https://klingai.com/text-to-video/new) | AI video generation text-to-Image, Image to video | 🆓💲🔐 |
-| [HAILUO AI](https://hailuoai.video/) | AI video generation text-to-Image, | 🆓💲🔐 |
 
 ## Coding Assistants
 
@@ -67,14 +66,13 @@ _A list of AI resources curated by Last Vector AI_
 |------|-------------|---------|
 | [Cursor](https://www.cursor.com/) | AI powered code editor | 🆓💲 |
 | [GitHub Copilot](https://github.com/features/copilot) | AI pair programmer | 💲 |
-| [Cline](https://github.com/cline/cline) | VSCode extension for AI code editing | 🆓👨‍💻 |
-| [Bolt.new](https://bolt.new/) | Chat to code and deploy apps | 🆓💲 |
-| [Replit Agent](https://replit.com/) | Chat to code and deploy flask apps | 🆓💲 |
-| [v0](https://v0.dev/) | Chat to code react components with tailwindcss and shadcn | 🆓💲 |
 | [Tabnine](https://www.tabnine.com/) | AI code completion tool | 🆓💲 |
 | [CodeWhisperer](https://aws.amazon.com/codewhisperer/) | AI coding companion by Amazon | 🆓💲 |
-
-
+| [Bolt.new](http://bolt.ai/chat) | AI coding editor(?) for web apps. Allows preview of a product.  | 🆓💲 |
+| [Replit Agent](https://replit.com/) | Chat to code and deploy flask apps | 🆓💲 |
+| [v0](https://v0.dev/) | Chat to code react components with tailwindcss and shadcn | 🆓💲 |
+| [Cline](https://github.com/cline/cline) | VSCode extension for AI code editing | 🆓👨‍💻 |
+| [Cody](https://sourcegraph.com/cody) | VSCode based AI coding assistant | 🆓💲 |
 
 ## Speech Recognition & Synthesis
 
@@ -96,11 +94,11 @@ _A list of AI resources curated by Last Vector AI_
 
 ## Other Lists
 
-| Resource | Description |
-|----------|-------------|
-| [Awesome AI Tools by eudk](https://github.com/eudk/awesome-ai-tools) | Curated list of AI tools |
-| [Awesome AI Tools by mahseema](https://github.com/mahseema/awesome-ai-tools) | Another curated list of AI tools |
-| [Cursor Directory](https://cursor.directory/) | Directory of AI resources |
+Links to other lists with useful AI tools & resources:
+
+- https://github.com/eudk/awesome-ai-tools
+- https://github.com/mahseema/awesome-ai-tools
+- https://cursor.directory/
 
 ---
 
