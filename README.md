@@ -30,8 +30,6 @@ _A list of AI resources curated by Last Vector AI_
 
 ## Model Selection
 
-## Model Selection
-
 | Model | Modality | Open Source? | Best for... | Best Provider |
 |-------|----------|--------------|-------------|---------------|
 | BioBERT | Text | Yes 🔓 | Biomedical text mining | Google |
