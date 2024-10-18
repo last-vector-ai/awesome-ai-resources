@@ -91,6 +91,7 @@ _A list of AI resources curated by Last Vector AI_
 | [Prompt Engineering Guide](https://www.promptingguide.ai/) | Comprehensive guide to prompt engineering | 🆓 |
 | [Anthropic's Prompt Engineering Guide](https://www.anthropic.com/index/prompting-guide) | Best practices for prompting AI models | 🆓 |
 | [Anthropic Workbench](https://console.anthropic.com/) | Playground for prompts | 🔐💲 |
+| [Prompt Base](https://promptbase.com/) | Marketplace for prompts | 🔐💲 |
 
 ## Other Lists
 
