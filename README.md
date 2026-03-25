@@ -62,6 +62,7 @@
 | [D-ID](https://www.d-id.com/) | AI video creation with digital avatars | 🆓💲 |
 | [KLING AI](https://klingai.com/text-to-video/new) | Text-to-Image, Image to video | 🆓💲🔐 |
 | [Hailuo AI](https://hailuoai.video/) | AI video generation text-to-Image | 🆓💲 |
+| [PVID](http://pvid.app/) | Free AI video generator aggregating Kling 3.0, Sora 2, Veo 3.1 | 🆓 |
 
 ## 💻 Coding Assistants
 
