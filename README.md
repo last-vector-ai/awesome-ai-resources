@@ -62,6 +62,7 @@
 | [D-ID](https://www.d-id.com/) | AI video creation with digital avatars | 🆓💲 |
 | [KLING AI](https://klingai.com/text-to-video/new) | Text-to-Image, Image to video | 🆓💲🔐 |
 | [Hailuo AI](https://hailuoai.video/) | AI video generation text-to-Image | 🆓💲 |
+| [ImagineClip](https://imagineclip.com) | AI video generator for social clips and avatar videos | 🆓💲🔐 |
 
 ## 💻 Coding Assistants
 
