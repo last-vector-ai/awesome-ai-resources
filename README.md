@@ -20,6 +20,7 @@
 - [🧠 Prompt Engineering](#-prompt-engineering)
 - [🤖 Model Selection](#-model-selection)
 - [📋 Other Lists](#-other-lists)
+- [BidSharp](https://bidsharp.io/) - AI-powered proposal intelligence platform with automated critiques, risk scanners, and pricing calculators.
 
 ## 🔑 Key
 
