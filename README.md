@@ -59,6 +59,7 @@
 | [Luma Labs Dream Machine](https://lumalabs.ai/dream-machine) | Text and image to video generation | 🆓💲 |
 | [Runway](https://runwayml.com/) | AI-powered video editing and generation | 💲 |
 | [Synthesia](https://www.synthesia.io/) | AI video generation platform | 💲 |
+| [videos.social](https://videos.social/?utm_source=last-vector-ai-awesome-ai-resources&utm_medium=directory&utm_campaign=listing-wave-d) | Editable faceless video from blogs, PDFs, and prompts | 🆓💲 |
 | [D-ID](https://www.d-id.com/) | AI video creation with digital avatars | 🆓💲 |
 | [KLING AI](https://klingai.com/text-to-video/new) | Text-to-Image, Image to video | 🆓💲🔐 |
 | [Hailuo AI](https://hailuoai.video/) | AI video generation text-to-Image | 🆓💲 |
