@@ -37,6 +37,7 @@
 | [Venice AI](https://venice.ai/chat) | Venice AI | Uncensored interactions | Open-source models, privacy-focused |
 | [Grok](https://x.com/i/grok) | xAI | Humorous AI search assistant | Real-time data access, humorous responses |
 | [Gemini](https://gemini.google.com/) | Google DeepMind | Multimodal capabilities | Advanced reasoning, flexible model sizes |
+| [WSUP AI](https://wsupai.app/) | Ownland | Character chat | Free AI character chat in the browser, no sign up. SFW only |
 
 ## 🎨 Image Generation
 
