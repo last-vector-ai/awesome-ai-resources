@@ -127,6 +127,7 @@ Links to other lists with useful AI tools & resources:
 - https://github.com/mahseema/awesome-ai-tools
 - https://cursor.directory/
 - https://dev.to/sbalasa/list-of-ai-models-17on 
+- https://aitoolsradar.com/
 
 ---
 
