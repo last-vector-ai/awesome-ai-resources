@@ -15,6 +15,7 @@
 - [🗣️ Conversational Models](#%EF%B8%8F-conversational-models)
 - [🎨 Image Generation](#-image-generation)
 - [🎬 Video Generation](#-video-generation)
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap, try-on, and restyle on webcam video.
 - [💻 Coding Assistants](#-coding-assistants)
 - [🔊 Speech Recognition & Synthesis](#-speech-recognition--synthesis)
 - [🧠 Prompt Engineering](#-prompt-engineering)
